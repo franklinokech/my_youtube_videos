@@ -1,0 +1,8 @@
+ATL: Atlanta, GA, USA
+PEK: Beijing, China
+DXB: Dubai, United Arab Emirates
+LAX: Los Angeles, CA, USA
+HND: Tokyo, Japan
+ORD: Chicago, IL, USA
+LHR: London, England, United Kingdom
+HKG: Hong Kong, Hong Kong
